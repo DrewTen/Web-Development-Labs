@@ -1,0 +1,7 @@
+h1,h2{font-family:'Trebuchet MS'; font-size:30px; text-align:center;}
+li, ul, h3 {font-family:'Verdana'; text-align:left;}
+body{background-color: lightgoldenrodyellow;}
+.Starters{text-align:'left';float:left; }
+.Mains{Text-align:'right'; }
+.Desserts{text-align: left; float:left;}
+.Sides{text-align: right;}
